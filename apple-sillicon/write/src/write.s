@@ -64,7 +64,7 @@ error:
 
   exit_prog #1
 
-filename: .string "test.txt"
+filename: .string "../test.txt"
 .align 2
 msg: .string "Hello, World!\n"
 .align 2

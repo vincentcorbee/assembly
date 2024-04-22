@@ -1,4 +1,4 @@
-BIN = cmd_args
+BIN = test
 
 ENTRYPOINT = main
 ARCH = arm64
